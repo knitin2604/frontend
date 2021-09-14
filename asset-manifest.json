@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.92dd0f83.chunk.css",
+    "main.js": "/frontend/static/js/main.f59dda29.chunk.js",
+    "main.js.map": "/frontend/static/js/main.f59dda29.chunk.js.map",
+    "runtime-main.js": "/frontend/static/js/runtime-main.cdac9f6c.js",
+    "runtime-main.js.map": "/frontend/static/js/runtime-main.cdac9f6c.js.map",
+    "static/css/2.818011ed.chunk.css": "/frontend/static/css/2.818011ed.chunk.css",
+    "static/js/2.90981775.chunk.js": "/frontend/static/js/2.90981775.chunk.js",
+    "static/js/2.90981775.chunk.js.map": "/frontend/static/js/2.90981775.chunk.js.map",
+    "index.html": "/frontend/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/frontend/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.92dd0f83.chunk.css.map": "/frontend/static/css/main.92dd0f83.chunk.css.map",
+    "static/js/2.90981775.chunk.js.LICENSE.txt": "/frontend/static/js/2.90981775.chunk.js.LICENSE.txt",
+    "static/media/lean1.4aa29e80.jpg": "/frontend/static/media/lean1.4aa29e80.jpg",
+    "static/media/lean2.c754fb26.jpg": "/frontend/static/media/lean2.c754fb26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdac9f6c.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.90981775.chunk.js",
+    "static/css/main.92dd0f83.chunk.css",
+    "static/js/main.f59dda29.chunk.js"
+  ]
+}
